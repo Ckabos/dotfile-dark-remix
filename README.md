@@ -1,7 +1,5 @@
 # Dotfile-dark-remix
 
-# Dotfile Trans
-
 ![img](./screenshots/Captura-1.png)
 ![img](./screenshots/Captura-2.png)
 ![img](./screenshots/Captura-3.png)
