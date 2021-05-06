@@ -14,12 +14,12 @@
 - **`Polybar`** : Configurations bars.
 - **`Rofi`** : For rofi-bluetooth, rofi launcher and rofi theme selector.
 - **`MPD`** : For audio client with ncmpcpp player.
-- **`Bspwm`** : Window Manager
+- **`Bspwm`** : Window Manager.
 - **`Sxhkd`** : Keybindings.
 - **`Nerd Fonts`** : Fonts to the customization.
 - **`URxvt`** : Terminal customization with .Xresources file.
-- **`Zathura`** : Lector PDF-EPUB
-
+- **`Zathura`** : Lector PDF-EPUB.
+- **`Ranger`** : File manager.
 # Icon fonts
 
 - **`Iosevka Nerd Font`**
