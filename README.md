@@ -18,6 +18,7 @@
 - **`Sxhkd`** : Keybindings.
 - **`Nerd Fonts`** : Fonts to the customization.
 - **`URxvt`** : Terminal customization with .Xresources file.
+- **`Zathura`** : Lector PDF-EPUB
 
 # Icon fonts
 
